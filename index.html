@@ -166,6 +166,16 @@ This single-file preview includes: header/navbar, responsive layout, RGB animate
     <button class="cart-btn" id="openCart">Carrito (<span id="cartCount">0</span>)</button>
   </div>
 
+
+<div id="preview-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;">
+  <div style="background:#fff;color:#000;border-radius:12px;padding:20px;max-width:600px;width:90%">
+    <button onclick="closeModal()">Cerrar</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+  <script src="script/app.js"></script>
+
   <script>
     // --- Simple App logic ---
     const el = id => document.getElementById(id);
