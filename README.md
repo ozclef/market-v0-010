@@ -1,19 +1,19 @@
-# market-v0-010
-
-
------
 
 
 
+#   market-v0-010
 
 
-<iframe src="ozclef.github.io/market-v0-010/index.html"></iframe>
 
 
------
 
-Sí, entendí perfectamente lo que estás planeando — y tiene buena lógica:
-quieres un **portafolio tipo marketplace**, donde se muestre un menú general (con secciones como *Principios, TecnoFix, Docencia, Programación, Música*, etc.), y además tener una **base de datos editable** (puede ser en JSON, Excel o SQL) para manejar los productos, servicios o proyectos, que se actualicen automáticamente en el sitio.
+<iframe src="ozclef.github.io/market-v0-010/"></iframe>
+
+
+
+
+ 
+ **portafolio tipo marketplace**, donde se muestre un menú general (con secciones como *Principios, TecnoFix, Docencia, Programación, Música*, etc.), y además tener una **base de datos editable** (puede ser en JSON, Excel o SQL) para manejar los productos, servicios o proyectos, que se actualicen automáticamente en el sitio.
 
 Vamos paso por paso para que te quede elegante, funcional y fácil de mantener.
 
